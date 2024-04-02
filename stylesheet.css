@@ -31,3 +31,34 @@ h1{
     height: 150px;
     border-radius: 50%;
 }
+h3{
+    padding-bottom: 10px;
+    padding-top: 150px;
+}
+ol{
+    list-style: none;
+    line-height: 2;
+    color: #525CEB;
+}
+
+.middle-container{
+    padding-top: 50px;
+
+}
+
+.bottom-container{
+    background-color: #BFCFE7;
+    padding: 50px 0px 20px;
+}
+
+.middle{
+    padding-bottom: 30px;
+}
+
+a{
+    color: black;
+}
+
+.footer-link{
+    padding-bottom: 50px;
+}
